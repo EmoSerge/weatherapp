@@ -19,7 +19,7 @@
 1. Перейдите в терминале в директорию проекта.
 2. Клонируйте проект.
 ```bash
-git clone https://github.com/EmoSerge/ZooBot
+git clone https://github.com/EmoSerge/weatherapp
 ```
 3. Установите зависимости
 
